@@ -2,4 +2,5 @@
   - npx prisma db push
 - oauth 原理
   - openssl rand -base64 32 生成 NEXTAUTH_SECRET
-- zod 是什么
+- zod schema 类型校验工具
+- react query
