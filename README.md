@@ -4,3 +4,5 @@
   - openssl rand -base64 32 生成 NEXTAUTH_SECRET
 - zod schema 类型校验工具
 - react query
+- trpc
+-
